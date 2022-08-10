@@ -3,7 +3,7 @@
 # Clone the repository, install node packages and verify routes locally
 
     git clone https://github.com/Ahana001/post-APIS.git
-    cd task2
+    cd task3
     npm install
     npm start
     
